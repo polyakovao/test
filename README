@@ -1,0 +1,10 @@
+$cd to working dir
+
+$docker-compose up
+
+site will be here - http://127.0.0.1:8001/
+
+simple migrations for 1 part done here
+http://127.0.0.1:8001/migrate.php
+
+of course this page is week to sql injections and have no validation on frontend, backend etc. and in the end product all the structure must be written in another way but thats simple realisation
